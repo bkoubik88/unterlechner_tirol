@@ -1,0 +1,54 @@
+body,
+html {
+  height: 100%;
+  background: rgb(186, 153, 54);
+  background: linear-gradient(
+    354deg,
+    rgba(186, 153, 54, 0.1) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  overflow-x: hidden !important;
+}
+
+.key input {
+  font-size: 2rem !important;
+}
+
+.key span {
+  font-size: 1.3rem !important;
+}
+
+.key {
+  margin-top: 20% !important;
+}
+
+.key label {
+  font-size: 1.6rem !important;
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root:focus {
+  color: beige !important;
+}
+
+.css-1oqv2c0-MuiPaper-root-MuiCard-root {
+  box-shadow: none !important;
+}
+
+.css-bhp9pd-MuiPaper-root-MuiCard-root {
+  box-shadow: none !important;
+}
+
+.filterBtn button {
+  border: 1px solid #bb9a37 !important;
+  color: #4b474d !important;
+}
+
+.filterBtn button:active {
+  background-color: #bb9a37 !important;
+  color: #f0f0f0 !important;
+}
+
+.filterBtn button:hover {
+  background-color: #bb9a37 !important;
+  color: #f0f0f0 !important;
+}
